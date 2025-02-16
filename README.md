@@ -31,25 +31,25 @@ To set up the project, follow these steps:
 
 2. Install the required dependencies:
     ```bash
-    `pip install -r requirements.txt`
+    pip install -r requirements.txt
 
 3. Run the project scripts: 
 
     - **Data Loading**:
         ```bash
-        `python src/data_loader.py`
+        python src/data_loader.py
     
     - **Market Analysis**:
         ```bash
-        `python src/industry_analysis.py`
+        python src/industry_analysis.py
     
     - **Benchmarking**:
         ```bash
-        `python src/benchmarking.py`
+        python src/benchmarking.py
     
     - **Visualization**:
         ```bash
-        `python src/visualize.py`
+        python src/visualize.py
 
 
 ## Project Structure
